@@ -16,7 +16,6 @@ Nick Walsh, man the Solar Death Ray!
 Drew Barontini, man the Supernova!
 Christine Wong, man the Firestorm!
 
-
 Running the Tests:
 
 You can copy and paste the starter code into JavaScript section of https://jsfiddle.net/
