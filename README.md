@@ -2,7 +2,7 @@
 
 JavaScript Objects Lightbulb-challenge
 
-Goal: This challenge is meant to help soldify the concept of objects in Javascript by working with specific object properties, specifically accessing requested properties and manipulating arrays in the context of JavaScript Objects.
+Goal: This challenge is meant to help soldify the concept of objects in Javascript by working with specific object properties, specifically accessing requested properties and manipulating arrays in the context of JavaScript objects.
 
 Task:
 
