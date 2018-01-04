@@ -2,8 +2,7 @@
 
 JavaScript Objects Lightbulb-challenge
 
-Goal: This challenge is meant to help soldify the concept of objects in Javascript by working with specific object properties 
-and understanding how function expressions can be manipulated into methods
+Goal: This challenge is meant to help soldify the concept of objects in Javascript by working with specific object properties, specifically accessing requested properties and manipulating arrays in the context of JavaScript Objects.
 
 Task:
 
@@ -19,3 +18,9 @@ Christine Wong, man the Firestorm!
 Running the Tests:
 
 You can copy and paste the starter code into JavaScript section of https://jsfiddle.net/
+
+Hints:
+1. Create a for loop to loop through all of the rangers at the location, using the numRangers property to keep track.
+2. Inside the loop, use the correct property to append the name of the current ranger to the list
+3. Concactenate the text between the ranger name and superblinder so it matches the requested format 
+4. Add the name of the correct super-blinding light bulb from the weaponBulbs array to the list. In order to retrieve the name of the correct bulb, you’ll need to use the ranger’s station number.
