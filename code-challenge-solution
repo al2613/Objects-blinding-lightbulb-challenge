@@ -1,5 +1,4 @@
-// We need to assign each of the ranger-devs to a super-blinding light bulb based on their station number. So we’re building a function that creates an alert message for the ranger-devs in the following format:
-
+// We need to assign each of the ranger-devs to a super-blinding light bulb based on their station number.
 
 var superBlinders = [ ["Firestorm", 4000], ["Solar Death Ray", 6000], ["Supernova", 12000] ];
 
